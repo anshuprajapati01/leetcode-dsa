@@ -8,6 +8,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
