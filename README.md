@@ -7,6 +7,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0136-single-number) |
@@ -21,6 +22,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
