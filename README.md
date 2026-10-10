@@ -11,6 +11,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0027-remove-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0136-single-number) |
@@ -84,4 +85,12 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
