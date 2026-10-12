@@ -98,4 +98,12 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
