@@ -47,6 +47,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0344-reverse-string) |
@@ -87,6 +88,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -117,4 +119,8 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0009-palindrome-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
