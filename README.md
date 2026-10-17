@@ -21,6 +21,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0217-contains-duplicate](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0217-contains-duplicate](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
