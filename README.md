@@ -19,6 +19,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -38,6 +39,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0125-valid-palindrome](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
