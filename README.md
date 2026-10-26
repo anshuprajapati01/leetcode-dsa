@@ -63,6 +63,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0205-isomorphic-strings](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0242-valid-anagram](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
