@@ -38,6 +38,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0125-valid-palindrome) |
@@ -61,6 +62,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0242-valid-anagram) |
@@ -155,4 +157,20 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
