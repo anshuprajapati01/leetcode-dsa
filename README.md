@@ -48,6 +48,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0344-reverse-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -133,6 +134,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
