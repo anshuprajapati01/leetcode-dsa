@@ -8,6 +8,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | ------- |
 | [0001-two-sum](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0035-search-insert-position) |
@@ -36,6 +37,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -86,6 +88,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0217-contains-duplicate) |
