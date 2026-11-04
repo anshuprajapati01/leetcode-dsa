@@ -15,6 +15,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0042-trapping-rain-water](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0136-single-number) |
@@ -56,6 +57,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -128,6 +130,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
