@@ -24,6 +24,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0169-majority-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -212,4 +213,8 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
