@@ -15,6 +15,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0042-trapping-rain-water](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0217-contains-duplicate) |
@@ -217,4 +219,8 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
