@@ -12,6 +12,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0054-spiral-matrix) |
@@ -83,6 +84,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0205-isomorphic-strings) |
@@ -135,6 +137,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
