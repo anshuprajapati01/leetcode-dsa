@@ -7,6 +7,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -43,6 +44,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0027-remove-element) |
@@ -226,4 +228,8 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
