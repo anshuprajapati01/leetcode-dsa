@@ -22,6 +22,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0074-search-a-2d-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -89,6 +90,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | ------- |
 | [0001-two-sum](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0205-isomorphic-strings) |
@@ -234,4 +236,8 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0011-container-with-most-water) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
