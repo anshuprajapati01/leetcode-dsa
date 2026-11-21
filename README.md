@@ -35,6 +35,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0283-move-zeroes](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -244,4 +245,8 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
