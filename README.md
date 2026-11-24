@@ -17,6 +17,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0035-search-insert-position](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0056-merge-intervals) |
@@ -85,6 +86,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0014-longest-common-prefix](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0242-valid-anagram) |
@@ -96,6 +98,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | ------- |
 | [0001-two-sum](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0169-majority-element) |
@@ -111,6 +114,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0169-majority-element) |
