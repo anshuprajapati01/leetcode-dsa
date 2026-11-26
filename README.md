@@ -93,6 +93,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0344-reverse-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0525-contiguous-array) |
 ## Sorting
 |  |
@@ -122,6 +124,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0242-valid-anagram](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -138,6 +141,7 @@ My LeetCode DSA practice and problem-solving journey in C++.
 | [0169-majority-element](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -256,4 +260,12 @@ My LeetCode DSA practice and problem-solving journey in C++.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anshuprajapati01/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
